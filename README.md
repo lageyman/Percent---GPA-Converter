@@ -3,24 +3,22 @@ Excel Sheet Program using Excel VBA/Macro for automating the input into Scholaro
 The video tutorial detailing these steps can be found in this Youtube Channel also : [https://youtu.be/12sckrJ3Nww?si=WZUhwn-Loyrp5y2m]
 
 # Steps :
-Step 1: Firstly, fill out all your subjects, credits and marks in the Excel Sheet attached. Fill out the marks out of 100.
+Step 1: Firstly, fill out all your subjects, credits, and marks which u have scored in this Excel Sheet .Make sure to check out the notes given here. 
 
-Step 2: Then open https://www.scholaro.com/gpa-calculator/ in browser or just click the website i mentioned in the Excel Sheet.
+Step 2: Then open https://www.scholaro.com/gpa-calculator/ in web browser or you can  just click the hyperlink which  i attached over here.
 
-Step 3: Now ,make sure that Scholaro contain adequate rows for your scores.
+Step 3: Now ,make sure that Scholaro contain adequate rows for the entry of your subjects  and scores.
 
 Step 4: Input your country and GPA Calculation methods in the site as per your University.
 
-Step 5: Now go to excel, Click Export to Scholaro button.
+Step 5: Now go to excel, Click Export to  button.
 
-Step 6: Here,input your subjects.(Subjects only, no other cells. and click ok.)
+Step 6: Here, you must select the cells containing subjects only.
 
-Step 7: Input the delay time in seconds. Make sure to input enough time to shift window to the broswer and active the Input box there. Click ok.
+Step 7: Input the delay time in seconds. Here,you should input enough time to shift window to the broswer.
 
-Step 8: Make sure your Website is ready. Put the cursor in the first inutbox after clicking ok.
+Step 8: Now,click ok to the dialog box asking if everything is ok. Then immediately go to the website and click at the first input box as if you were to type something there.
 
-Step 9: Now,click ok to the dialog box asking if everything is ok. Then immediately go to the website and click at the first input box as if you were to type something there.
+Step 9: Wait for the program to complete.
 
-Step 10: Wait for the program to complete.
-
-Step 11: Finally, Your GPA will be displayed.
+Step 10: Finally, Your GPA will be displayed.
