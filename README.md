@@ -1,5 +1,6 @@
 # Percent---GPA-Converter :
-Excel Sheet Program using Excel VBA/Macro for automating the input into Scholaro GPA Calculator Website.The video tutorial detailing these steps can be found in this Youtube Channel also : [https://youtu.be/12sckrJ3Nww?si=WZUhwn-Loyrp5y2m]
+Excel Sheet Program using Excel VBA/Macro for automating the input into Scholaro GPA Calculator Website.
+The video tutorial detailing these steps can be found in this Youtube Channel also : [https://youtu.be/12sckrJ3Nww?si=WZUhwn-Loyrp5y2m]
 
 # Steps :
 Step 1: Firstly, fill out all your subjects, credits and marks in the Excel Sheet attached. Fill out the marks out of 100.
@@ -23,8 +24,3 @@ Step 9: Now,click ok to the dialog box asking if everything is ok. Then immediat
 Step 10: Wait for the program to complete.
 
 Step 11: Finally, Your GPA will be displayed.
-
-# Note:
--If your theory is out of 100, credit is 100.  
--Likewise,for practical, if full marks is 25, credit is 25.
--If your full marks is 25 and you got 24, you should enter 24/25*100=96 in the box.
