@@ -1,6 +1,5 @@
 # Percent---GPA-Converter
-Shcolaro.com Cum Excel Tool For Converting Percentage To GPA Evaluation System......
-Excel Sheet Program using Excel VBA/Macro for automating the input into Scholaro GPA Calculator Website. The video tutorial detailing these steps can be found in this Youtube Channel also : [here]
+Excel Sheet Program using Excel VBA/Macro for automating the input into Scholaro GPA Calculator Website. The video tutorial detailing these steps can be found in this Youtube Channel also : [https://youtu.be/12sckrJ3Nww?si=WZUhwn-Loyrp5y2m]
 
 Steps :
 Step 1: Firstly, fill out all your subjects, credits and marks in the Excel Sheet attached. Fill out the marks out of 100.
