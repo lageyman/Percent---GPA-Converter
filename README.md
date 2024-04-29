@@ -26,6 +26,6 @@ Step 10: Wait for the program to complete.
 Step 11: Finally, Your GPA will be displayed.
 
 # Note:
--Enter the full marks here, if your theory is out of 100, credit is 100.  
+-If your theory is out of 100, credit is 100.  
 -Likewise,for practical, if full marks is 25, credit is 25.
--Insert the points in 100. ie. if your full marks is 25 and you got 24, you should enter 24/25*100=96 in the box.
+-If your full marks is 25 and you got 24, you should enter 24/25*100=96 in the box.
